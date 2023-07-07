@@ -3,7 +3,7 @@
 
 The `ShowOrganization` contract allows organizers to create shows, sell tickets, and allows users to gift tickets to other accounts.
 
-Interact with this application via [Etherscan](https://sepolia.etherscan.io/address/0x36c825415baB22eC1466567Df54578b277fF3Ead#writeContract) using the contract address "0x36c825415baB22eC1466567Df54578b277fF3Ead" in the Sepolia Test Net.
+Interact with this contract via [Etherscan](https://sepolia.etherscan.io/address/0x36c825415baB22eC1466567Df54578b277fF3Ead#writeContract) using the contract address "0x36c825415baB22eC1466567Df54578b277fF3Ead" in the Sepolia Test Net.
 
 
 ## Contract Overview
